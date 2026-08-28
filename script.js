@@ -1,0 +1,7 @@
+
+
+function modebutton() {
+    var element = document.body;
+    element.classList.toggle("dark");
+}
+
